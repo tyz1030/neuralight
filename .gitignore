@@ -1,0 +1,6 @@
+
+# *.png
+
+__pycache__
+.vscode
+*.log
