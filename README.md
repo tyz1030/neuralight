@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">NeLiS: Neural Light Simulator for Camera-Light Calibration</h2>
+<h2 align="center">NeLiS: Neural Light Simulator for 📷Camera-Light🔦 Calibration</h2>
 <!-- <p align="center">
    <h4 align="center"><a href="https://www.linkedin.com/in/kaining/">Kaining Huang</a> | <a href="https://scholar.google.com/citations?user=n11gQKoAAAAJ&hl=en"><strong>Tianyi Zhang</strong></a></h4>
 </p> -->
