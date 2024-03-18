@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 from torch.utils.data import Dataset
 import os
 import numpy as np

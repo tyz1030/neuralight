@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 import logging
 from PySide6.QtCore import QThread, Signal
 import torch

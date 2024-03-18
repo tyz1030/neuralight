@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 from typing import TypeAlias, Literal, Optional
 import torch
 from torch import nn, Tensor

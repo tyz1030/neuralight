@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 from PySide6.QtWidgets import (
     QPushButton,
     QLineEdit,

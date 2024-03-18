@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 import torch
 import torch.distributions as D
 import torch.nn.functional as F

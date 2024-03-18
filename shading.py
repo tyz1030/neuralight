@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 from brdf import BRDFFactory
 from light import LightFactory
 import torch

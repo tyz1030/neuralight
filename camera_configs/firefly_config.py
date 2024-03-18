@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 from dataclasses import dataclass
 from .base_config import CameraIntrinsics
 

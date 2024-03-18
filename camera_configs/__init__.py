@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 from .base_config import CameraIntrinsics
 from .firefly_config import FireflyIntrinsics
 from .firefly_feb17_config import FireflyIntrinsicsFen17

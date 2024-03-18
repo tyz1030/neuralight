@@ -1,3 +1,5 @@
+# Copyright 2024 Kaining Huang and Tianyi Zhang. All rights reserved.
+
 from typing import Tuple, Optional
 import torch
 from torch import Tensor
