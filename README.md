@@ -6,6 +6,12 @@
 </p>
 <br>
 
+>“There are two ways of spreading light: to be the candle or the mirror that receives it.” ― Edith Wharton (1862-1937)
+
+## Todos and Timelines
+* Arxiv release: March 20, 2024
+* More tutorials: April tbd, 2024
+* DarkGS code: June 30, 2024 (IROS results out. tbd. I might release code earlier)
 
 ## Dependencies
 ```
@@ -37,5 +43,10 @@ python3 gui.py
 An example calibration target can be downloaded here but feel free to print your own target.
 
 ## Citation
+To release by March 20 2024.
 ```
 ```
+
+## Acknowledgement
+* This work is supported by NOAA.
+* Copyright 2024 Kaining Huang and Tianyi Zhang, Carnegie Mellon University. All rights reserved.
