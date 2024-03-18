@@ -40,7 +40,7 @@ python3 gui.py
 </p>
 
 ## Make Your Own Calibration Target
-An example calibration target can be downloaded here but feel free to print your own target.
+An example calibration target can be downloaded [here](NeLiS_target_example.pdf) but feel free to generate your own target. We use [moms-apriltag](https://pypi.org/project/moms-apriltag/).
 
 ## Citation
 To release by March 20 2024.
