@@ -9,7 +9,7 @@
 >“There are two ways of spreading light: to be the candle or the mirror that receives it.” ― Edith Wharton (1862-1937)
 
 ## Todos and Timelines
-* Arxiv release: March 20, 2024
+* [Arxiv](https://arxiv.org/abs/2403.10814) release: March 20, 2024 (Done)
 * More tutorials: April tbd, 2024
 * DarkGS code: June 30, 2024 (IROS results out. tbd. I might release code earlier)
 
@@ -43,8 +43,16 @@ python3 gui.py
 An example calibration target can be downloaded [here](NeLiS_target_example.pdf) but feel free to generate your own target. We use [moms-apriltag](https://pypi.org/project/moms-apriltag/).
 
 ## Citation
-To release by March 20 2024.
+[Arxiv](https://arxiv.org/abs/2403.10814)
 ```
+@misc{zhang2024darkgs,
+      title={DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark}, 
+      author={Tianyi Zhang and Kaining Huang and Weiming Zhi and Matthew Johnson-Roberson},
+      year={2024},
+      eprint={2403.10814},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Acknowledgement
