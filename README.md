@@ -11,7 +11,13 @@
 ## Todos and Timelines
 * [Arxiv](https://arxiv.org/abs/2403.10814) release: March 20, 2024 (Done)
 * More tutorials: April tbd, 2024
-* DarkGS code: June 30, 2024 (IROS results out. tbd. I might release code earlier)
+* DarkGS code: Coming soon! DarkGS relighting preview :point_down: (Novel view rendering sequence)
+<p align="center">
+  <a href="">
+    <img src="darkgs.gif" alt="Logo" width="100%">
+  </a>
+</p>
+
 
 ## Dependencies
 ```
