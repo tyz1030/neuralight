@@ -7,7 +7,11 @@
 <br>
 
 >“There are two ways of spreading light: to be the candle or the mirror that receives it.” ― Edith Wharton (1862-1937)
-
+<p align="center">
+    <img src="cmu_ri_logo.png" alt="Logo" width="40%"">   
+    <img src="NOAA_logo_mobile.svg" alt="Logo" width="25%">
+  </a>
+</p>
 ## Todos and Timelines
 * [Arxiv](https://arxiv.org/abs/2403.10814) release: March 20, 2024 (Done)
 * DarkGS code: Coming soon! DarkGS relighting preview :point_down: (Novel view rendering sequence)
