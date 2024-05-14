@@ -12,9 +12,10 @@
     <img src="NOAA_logo_mobile.svg" alt="Logo" width="25%">
   </a>
 </p>
+
 ## Todos and Timelines
 * [Arxiv](https://arxiv.org/abs/2403.10814) release: March 20, 2024 (Done)
-* DarkGS code: Coming soon! DarkGS relighting preview :point_down: (Novel view rendering sequence)
+* DarkGS code (sister repo): [DarkGS](https://github.com/tyz1030/darkgs) DarkGS relighting preview :point_down: (Novel view rendering sequence)
 <p align="center">
   <a href="">
     <img src="darkgs.gif" alt="Logo" width="100%">
