@@ -13,8 +13,7 @@
   </a>
 </p>
 
-## Todos and Timelines
-* [Arxiv](https://arxiv.org/abs/2403.10814) release: March 20, 2024 (Done)
+* Please check our [Arxiv](https://arxiv.org/abs/2403.10814), [videos](https://www.linkedin.com/posts/tianyi-zhang-396b0a186_darkgs-building-3d-gaussians-with-a-torch-activity-7197672371393019905-iY2-?utm_source=share&utm_medium=member_desktop) ([Bilibili](https://www.bilibili.com/video/BV1Euu4eqEtN/?vd_source=ccc6b1a36055375ca812070948900795#reply222119730496)).
 * DarkGS code (sister repo): [DarkGS](https://github.com/tyz1030/darkgs) DarkGS relighting preview :point_down: (Novel view rendering sequence)
 <p align="center">
   <a href="">
